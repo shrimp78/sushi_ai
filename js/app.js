@@ -46,7 +46,7 @@ function App() {
                 "v": "20150910",
                 "query": query,
                 "timezone": "GMT+6",
-                "lang": "en",
+                "lang": "ja",
                 //"contexts" : ["weather", "local"],
                 "sessionId": sessionId
             };
